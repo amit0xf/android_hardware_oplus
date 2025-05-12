@@ -30,6 +30,9 @@ type proc_bus_input, fs_type, proc_type;
 # Performance
 type vendor_proc_oplus_scheduler, fs_type, proc_type;
 
+# sysfs
+type sysfs_torch, sysfs_type, fs_type;
+
 # Reserve
 type oplus_reserve_connectivity_file, file_type;
 type oplus_reserve_connectivity_felicalock, file_type;
