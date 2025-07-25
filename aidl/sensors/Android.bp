@@ -26,6 +26,7 @@ cc_binary {
     srcs: [
         "AlsCorrection.cpp",
         "service.cpp",
+        "AlsCorrection.cpp",
         "HalProxy.cpp",
         "HalProxyCallback.cpp",
     ],
